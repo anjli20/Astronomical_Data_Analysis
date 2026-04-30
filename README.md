@@ -1,4 +1,5 @@
 Astronomical Data Analysis Project
+
 This project demonstrates an end-to-end astronomy data science workflow using Python. It combines machine learning on tabular star data with FITS image processing of the Andromeda Galaxy (M31).
 The notebook is designed to run automatically in Google Colab or Jupyter-style environments. The dataset and FITS image are fetched directly from online sources, so no manual local download is required.
 
